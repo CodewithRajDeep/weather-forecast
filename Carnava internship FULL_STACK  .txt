@@ -1,0 +1,15 @@
+Carnava internship: FULL_STACK  
+
+
+Weather forcasting web application: 
+
+- basic necessity: 
+
+1. Design principles, 
+2. User Experience, 
+3. responsive application, 
+4. user friendly 
+5. aesthetics friendly. 
+
+
+Weather forcasting. 
